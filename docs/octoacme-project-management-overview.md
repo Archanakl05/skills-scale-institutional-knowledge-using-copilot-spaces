@@ -44,3 +44,18 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+- ## Documentation Governance
+
+Each project management document should have a clear owner who is responsible for keeping the content accurate and useful.
+
+The documentation should be reviewed at least once per release or monthly, whichever comes first.
+
+During each review, the owner should:
+- Check whether process steps are still accurate
+- Remove outdated information
+- Add missing examples or templates
+- Validate links and references
+- Confirm that new team members can understand the workflow
+
+If contributors find unclear or missing process information, they should create a GitHub issue or pull request with the suggested improvement.
